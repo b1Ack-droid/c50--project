@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: whitesmoke;
+}
+.headertext{
+    color: blanchedalmond;
+}
+.origamis{
+    display:flex;
+    justify-content: space-between;
+
+}
+.camel{
+    margin-left: 20px;
+    background-color: cadetblue;
+    width: 300;
+}
+.chameleon{
+    margin-left: 20px;
+    background-color: cadetblue;
+    width: 300;
+}
